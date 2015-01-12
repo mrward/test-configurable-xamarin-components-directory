@@ -71,9 +71,5 @@
       <Version>1.2.4</Version>
       <Visible>False</Visible>
     </XamarinComponentReference>
-    <XamarinComponentReference Include="json.net">
-      <Version>4.5.11</Version>
-      <Visible>False</Visible>
-    </XamarinComponentReference>
   </ItemGroup>
 </Project>
